@@ -1,0 +1,46 @@
+{
+  "categorias": [
+    {
+      "id": 2,
+      "matricula": 94712390,
+      "nome": "Pedro Lenin",
+      "CPF": "70019028344",
+      "nota": 10
+    },
+    {
+      "matricula": "129831928311",
+      "nome": "Glória Almeida",
+      "CPF": "8213184712",
+      "nota": "8",
+      "id": 4
+    },
+    {
+      "matricula": "9418238912",
+      "nome": "Rogerio",
+      "CPF": "9213781641283",
+      "nota": "7",
+      "id": 5
+    },
+    {
+      "matricula": "3109231239",
+      "nome": "Ruan",
+      "CPF": "319287312",
+      "nota": "2",
+      "id": 7
+    },
+    {
+      "matricula": 94712390,
+      "nome": "Pedro Lenin",
+      "CPF": "70019028344",
+      "nota": 10,
+      "id": 8
+    },
+    {
+      "matricula": "82371829312",
+      "nome": "Henrrique",
+      "CPF": "1237123128",
+      "nota": "3",
+      "id": 9
+    }
+  ]
+}
