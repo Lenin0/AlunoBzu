@@ -1,6 +1,6 @@
 <h1>Projeto Bzu 📊</h1>
 
-><p>Nesse projeto criei uma tabela de cadastro que continha: " Matricula, Nome, CPF e Nota ". Na pasta de src, vai ter uma pasta de componentes, onde vai se encontrar 3 arquivos, cadastro(Ilustrativo), Alunos( Onde ficou toda aplicação de cadastro e tabela, com as funciolidades do CRUD) e no arquivo de Grafico ficou o código dos dois gráficos.</p>
+><p>Nesse projeto criei uma tabela de cadastro que continha: " Matricula, Nome, CPF e Nota ". Na pasta de src, vai ter uma pasta de componentes, onde vai se encontrar 3 arquivos: "Cadastro.js"(Ilustrativo); "Alunos.js"( Onde ficou toda aplicação de cadastro e tabela, com as funciolidades do CRUD); "Grafico.js" (onde ficou oa códigoa dos dois gráficos).</p>
 
 <h2>Bibliotecas/Dependências usadas 📚</h2>
 
