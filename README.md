@@ -18,7 +18,7 @@
 <h2>Funciolanidades 🦾</h2>
 
 ><p>Tabela criada com os arquivos de uma API, simulando um backend com todas as funcionalidades do CRUD</p>
-><img src="https://github.com/Lenin0/Alunobzu/commit/225683be0e1c6b94dcc80a8ddd5fea57deab9712">
+><img src="https://github.com/Lenin0/Alunobzu/blob/main/Tabelabzu.png">
 
 ><p>Esse modal aparece quando se clica no botão "NOVO" ou no botão de "ALTERAR". Você pode adicionar um novo cadastro ou alterar um cadastro já existente, usando o mesmo modal</p>
 ><img src="https://github.com/Lenin0/Alunobzu/blob/main/tabela2.png">
