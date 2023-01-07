@@ -15,29 +15,20 @@
   <li>"react-router-dom": "^6.6.1"</li>
 </ul>
 
-<h2>Funciolanidades</h2>
+<h2>Funciolanidades 🦾</h2>
 
-<p>Tabela criada com os arquivos de uma API, simulando um backend com todas as funcionalidades do CRUD</p>
+><p>Tabela criada com os arquivos de uma API, simulando um backend com todas as funcionalidades do CRUD</p>
+><img src="https://github.com/Lenin0/Alunobzu/blob/main/Tabela1.png">
 
-![Tabela](https://github.com/Lenin0/Alunobzu/blob/main/Tabela1.png)
+><p>Esse modal aparece quando se clica no botão "NOVO" ou no botão de "ALTERAR". Você pode adicionar um novo cadastro ou alterar um cadastro já existente, usando o mesmo modal</p>
+><img src="https://github.com/Lenin0/Alunobzu/blob/main/tabela2.png">
 
-<p>Esse modal aparece quando se clica no botão "NOVO" ou no botão de "ALTERAR". Você pode adicionar um novo cadastro ou alterar um cadastro já existente, usando o mesmo modal</p>
-(https://github.com/Lenin0/Alunobzu/blob/main/tabela2.png)
+><p>Criei uma Api para simular o backend, assim pude adiconar, aletar e remover os dados</p>
+><img src="https://github.com/Lenin0/Alunobzu/blob/main/API.png">
 
-<ol>
-  <li>Clone the repository</li>
-  <li>Run `npm install` to install dependencies</li>
-  <li>Run `npm start` to start the application</li>
-</ol>
 
-<h2>Contributors</h2>
+<h2>Contributores 🤵</h2>
 
-<ul>
-  <li>Me</li>
-  <li>Myself</li>
-  <li>I</li>
-</ul>
+<p>Pedro Lenin</p>
 
-<h2>License</h2>
 
-<p>My project is licensed under the MIT License. See <a href="LICENSE">LICENSE</a> for more information.</p>
