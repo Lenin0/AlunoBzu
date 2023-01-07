@@ -23,8 +23,8 @@
 ><p>Esse modal aparece quando se clica no botão "NOVO" ou no botão de "ALTERAR". Você pode adicionar um novo cadastro ou alterar um cadastro já existente, usando o mesmo modal</p>
 ><img src="https://github.com/Lenin0/Alunobzu/blob/main/TabelaAdicionar.gif">
 
-<p>Exemplo de como funciona o botão altera</p>
-<img src="https://github.com/Lenin0/Alunobzu/blob/main/TabelaAlterar.gif">
+><p>Exemplo de como funciona o botão altera</p>
+><img src="https://github.com/Lenin0/Alunobzu/blob/main/TabelaAlterar.gif">
 
 ><p>Criei uma Api para simular o backend, assim pude adiconar, aletar e remover os dados</p>
 ><img src="https://github.com/Lenin0/Alunobzu/blob/main/API.png">
