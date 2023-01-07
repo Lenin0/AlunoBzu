@@ -21,7 +21,7 @@
 ><img src="https://github.com/Lenin0/Alunobzu/blob/main/TabelaDelet.gif">
 
 ><p>Esse modal aparece quando se clica no botão "NOVO" ou no botão de "ALTERAR". Você pode adicionar um novo cadastro ou alterar um cadastro já existente, usando o mesmo modal</p>
-><img src="https://github.com/Lenin0/Alunobzu/blob/main/TabelaAdicionar.gif">
+><img src="https://github.com/Lenin0/Alunobzu/blob/main/TabelaAds.gif">
 
 ><p>Exemplo de como funciona o botão altera</p>
 ><img src="https://github.com/Lenin0/Alunobzu/blob/main/TabelaAlterar.gif">
